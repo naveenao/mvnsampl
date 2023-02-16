@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-  <h3>Deployed by Naveen using POll SCM. This is fifth change. Running in slave node.</h3>
+  <h3>Hello All. This is to test tomcat deploy from Jenkins!! Welcome to the Jungle</h3>
 </body>
 </html>
